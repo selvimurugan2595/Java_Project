@@ -2,3 +2,6 @@ Jave feature
 Java keywords
 functions /methods
 interface
+class extends implements
+dataypes
+data
